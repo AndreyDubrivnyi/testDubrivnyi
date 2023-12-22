@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="kk1">#8500FF48</color>
+    <color name="kk2">#00FCFC</color>
+    <color name="texting">#00FCFC</color>
+</resources>
